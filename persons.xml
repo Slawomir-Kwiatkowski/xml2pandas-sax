@@ -1,0 +1,37 @@
+<persons>
+    <person id="1">
+        <position>manager</position>
+        <first_name>John</first_name>
+        <last_name>Doe</last_name>
+        <email>j.doe@company.com</email>
+        <salary>180000</salary>
+    </person>
+    <person id="2">
+        <position>secretary</position>
+        <first_name>Jane</first_name>
+        <last_name>Brown</last_name>
+        <email>j.brown@company.com</email>
+        <salary>40000</salary>
+    </person>
+    <person id="3">
+        <position>programmer</position>
+        <first_name>Bill</first_name>
+        <last_name>Smith</last_name>
+        <email>bill@company.com</email>
+        <salary>120000</salary>
+    </person>
+    <person id="5">
+        <position>programmer</position>
+        <first_name>Mark</first_name>
+        <last_name>Evans</last_name>
+        <email>mark@company.com</email>
+        <salary>100000</salary>
+    </person>
+    <person id="6">
+        <position>intern</position>
+        <first_name>Mary</first_name>
+        <last_name>Johnson</last_name>
+        <email>mary@company.com</email>
+        <salary>13000</salary>
+    </person>
+</persons>
